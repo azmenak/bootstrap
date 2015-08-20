@@ -75,7 +75,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 2.5.2)
-  jekyll-redirect-from
+  jekyll-redirect-from (~> 0.8.0)
   rouge (~> 1.7.4)
   sass (~> 3.4.9)
   scss-lint (~> 0.31)
