@@ -9,7 +9,6 @@ group :development, :test do
   gem 'rouge', '~> 1.7.4'
   gem 'sass', '~> 3.4.9'
   gem 'scss-lint', '~> 0.31'
-  gem 'jekyll-redirect-from', '~> 0.8.0'
 end
 
 group :jekyll_plugins do
